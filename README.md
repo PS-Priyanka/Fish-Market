@@ -4,6 +4,7 @@ This dataset is a record of 7 common different fish species in fish market sales
 This dataset contains 6 different variables which are used to predict the species.
 
 Below is the sample records:
+
 ![image](https://user-images.githubusercontent.com/98494462/182714686-6b523e02-fe9a-4298-aace-8a8d771608e8.png)
 
 This dataset contains 159 records so prediction may not be very accurate.
